@@ -1,6 +1,12 @@
 # 💫 About me :
-Actuellement je travaille sur mon projet O'Galaxy. Il s'agit d'un site d'agence de voyage qui propose des voyages intergalactiques sur les planètes de l'univers de Star Wars.<br><br>Par la suite j'aimerais trouver un emploi en développement web symfony afin de continuer de m'améliorer dans ce domaine qui me passionne.<br><br>Entre la fin de ma formation et le passage de mon titre pro, je souhaite continuer à créer des projets afin de monter en compétences et de travailler sur d'autres langages.<br><br>J'ai envie de pratiquer au maximum afin de créer un super portfolio et partager mes projets. <br><br>
 
+👋 Hi, I’m @Elodie-GAUTHIER
+👀 I’m interested in gaming, learning code, music...
+🌱 I’m currently learning how to be a dev with O'Clock School
+📫 How to reach me by mail at elodiegauthier1@hotmail.fr
+
+---
+[![](https://visitcount.itsvg.in/api?id=Elodie-GAUTHIER&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials :
 Linkedin : https://www.linkedin.com/in/elodie-gauthier-0b106b2b4/ <br>
@@ -19,8 +25,5 @@ Linkedin : https://www.linkedin.com/in/elodie-gauthier-0b106b2b4/ <br>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Elodie-GAUTHIER&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
