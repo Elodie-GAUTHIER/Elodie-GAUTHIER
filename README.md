@@ -1,8 +1,8 @@
 # 💫 About me :
 
-👋 Hi, I’m @Elodie-GAUTHIER
-👀 I’m interested in gaming, learning code, music...
-🌱 I’m currently learning how to be a dev with O'Clock School
+👋 Hi, I’m @Elodie-GAUTHIER <br>
+👀 I’m interested in gaming, learning code, music... <br>
+🌱 I’m currently learning how to be a dev with O'Clock School <br>
 📫 How to reach me by mail at elodiegauthier1@hotmail.fr
 
 ---
