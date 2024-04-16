@@ -4,6 +4,7 @@ Actuellement je travaille sur mon projet O'Galaxy. Il s'agit d'un site d'agence 
 
 ## 🌐 Socials :
 Linkedin : https://www.linkedin.com/in/elodie-gauthier-0b106b2b4/ <br>
+<br>
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pumpkinpsycho)
 
 # 💻 Tech Stack :
